@@ -1,4 +1,4 @@
-#keep this all files in newsubgraph folder 
+#keep this all files in newsubgraph folder .
 CryptoPunks Subgraph
 Overview
 The CryptoPunks Subgraph is a GraphQL-based analytics dashboard designed to visualize and analyze the trading data of CryptoPunks on the Ethereum blockchain. This project provides real-time insights into assigns and transfers of CryptoPunks, allowing users to explore trends, trading statistics, and detailed transaction histories.
