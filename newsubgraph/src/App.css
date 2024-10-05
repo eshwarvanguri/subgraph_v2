@@ -1,0 +1,88 @@
+body {
+  background-color: #121212; /* Dark background */
+  color: #FFFFFF; /* Light text color */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo-container {
+  width: 100px; /* Adjusted logo size */
+  height: 100px;
+}
+
+.App-logo {
+  width: 100%; /* Responsive logo size */
+  height: auto;
+}
+
+h1 {
+  color: #00CCFF; /* Bright color for headings */
+}
+
+h2 {
+  color: #FFCC00; /* Different color for section headings */
+}
+
+.navigation {
+  margin: 20px 0;
+}
+
+.navigation button {
+  background-color: #007ACC; /* Button background color */
+  color: white; /* Button text color */
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.navigation button:hover {
+  background-color: #005999; /* Darker on hover */
+}
+
+.App-main {
+  padding: 20px;
+}
+
+table {
+  width: 100%; /* Full width */
+  border-collapse: collapse; /* Combine borders */
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #444; /* Dark border for table cells */
+  padding: 10px; /* Padding in cells */
+  text-align: left; /* Left align text */
+}
+
+th {
+  background-color: #1E1E1E; /* Dark header background */
+}
+
+tr:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* Highlight row on hover */
+}
+
+.error-message {
+  color: #FF0000; /* Red for errors */
+}
+
+.chart-container {
+  margin: 20px 0;
+}
+
+.App-footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #1E1E1E; /* Dark footer background */
+}
