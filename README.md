@@ -13,3 +13,5 @@ Recharts: For creating responsive charts to visualize data.
 URQL: For GraphQL data fetching.
 Tailwind CSS: For styling and responsive design.
 Graph Protocol: For querying blockchain data.
+at last keep this all files in newsubgraph folder
+
